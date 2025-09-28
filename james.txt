@@ -1,0 +1,29 @@
+# James
+## Information Gathered
+
+Gray Streem LLC. is the LLC. owned by Mark,
+covering James Welding & Uphostery & Dumper Services as described & provided.
+
+### Physical Address:
+Attn: Gray's Welding & Upholstery Shop
+601 E. Avenue A
+Robstown, Texas 78380
+
+### Email: jrgray192525@gmail.com
+
+### Contact Number's:
+    512-845-1958 - James
+    361-906-1468 - Mark
+
+### Business Name: Gray's Welding & Upholstery Shop
+
+#### Services Offered:
+- [ ] Pickup & Delivery service offered, coastal bend area location, 50mile radius
+- [ ] Welding & Machine Repair, farm equipment, trailers (single & dual axle), fabrication
+- [ ] 10 & 20yd dumpsters for rent - rates 10yd/$400--20yd/$500 delivered an emptied.
+
+
+### Tasks
+
+    - [ ] Walking Stick Website Needs created/deployed
+    - [ ] Gray's Welding & Upholstery Shop Website needs created/deployed
