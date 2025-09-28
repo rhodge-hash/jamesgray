@@ -2,8 +2,6 @@
   "name": "frontend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
-  "// Note": "This is a dummy comment to force a file update",
   "homepage": "https://rhodge-hash.github.io/jamesgray",
   "directories": {
     "test": "tests"
