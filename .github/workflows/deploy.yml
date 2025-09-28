@@ -3,7 +3,7 @@ name: Deploy Project
 on: 
   push:
     branches:
-      - main
+      - 001-website-goals-audience
 
 jobs:
   build-and-deploy-frontend:
